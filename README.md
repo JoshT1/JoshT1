@@ -8,7 +8,7 @@
   </a>
   </div>
   
-  ### My name is Josh Taylor, I am an aspiring software developer with a passion for C# and Python programming.
+  ### My name is Josh, I work as a systems analyst and like to gather data.
   
   ---
   
