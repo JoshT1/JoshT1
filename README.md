@@ -8,7 +8,7 @@
   </a>
   </div>
   
-  ### My name is Josh, I work as a systems analyst and like to gather data.
+  ### My name is Josh, I work as a software engineer and like to gather data.
   
   ---
   
